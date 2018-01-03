@@ -1,8 +1,8 @@
 package command
 
 import (
-	"github.com/goraft/raft"
-	"github.com/goraft/raftd/db"
+	"github.com/wenyuangui/raft"
+	"github.com/wenyuangui/raftd/db"
 )
 
 // This command writes a value to a key.
